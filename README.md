@@ -40,11 +40,13 @@
 
 #### Backup
 
-- [Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started) - Official SAP on Azure documentation.
+- [HANA Backup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database) - Back up SAP HANA databases in Azure VMs.
+- [VM BAckup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction) - An overview of Azure VM backup.
 
 #### SSO
 
-- [Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started) - Official SAP on Azure documentation.
+- [Principal Propagation for SAP oData Services](https://github.com/ROBROICH/Teams-Chatbot-SAP-NW-Principal-Propagation) - Hands-on Lab chatbot example for Principal propagation between Azure and SAP Netweaver OData services.
+- [Principal Propagation for SAP BTP](https://github.com/ROBROICH/Teams-Chatbot-SAP-NW-Principal-Propagation) - Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part I: Building the foundation
 - 
 #### Automation
 - [Github Repo](https://github.com/Azure/sap-hana) - SAP on Azure deployment automation repository on Github.
