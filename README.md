@@ -60,3 +60,4 @@
 
 #### Books
 - [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
+- [Architecture and Administration](https://www.sap-press.com/sap-on-microsoft-azure_5174/) - SAP on Azure Architecture and Administration. 
