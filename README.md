@@ -21,14 +21,8 @@
     - [Backup](#backup)
     - [SSO](#sso)
     - [Automation](#automation)
-    - [Tutorials]
-    - [Examples]
-    - [Templates]
     - [Security]
-    - [Books]
-- [Tools]
-    - [General]
-    - [DevOps]
+    - [Books](#books)
 
 #### Getting Started
 
@@ -44,7 +38,7 @@
 
 - [SAP HANA DR on Azure](https://azure.microsoft.com/en-us/blog/disaster-recovery-for-sap-hana-systems-on-azure/) - Disaster recovery for SAP HANA Systems on Azure.
 - [SAP NetWeaver DR on Azure](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-sap) - Set up disaster recovery for a multi-tier SAP NetWeaver app deployment.
-
+- [Protect SAP with ASR](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-sap) - Your SAP on Azure – Part 7 – Protect SAP landscape with Azure Site Recovery.
 
 #### Backup
 
@@ -60,3 +54,9 @@
 
 #### Automation
 - [Github Repo](https://github.com/Azure/sap-hana) - SAP on Azure deployment automation repository on Github.
+
+#### Security
+- [Github Repo](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
+
+#### Books
+- [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide
