@@ -54,6 +54,7 @@
 
 #### Automation
 - [Github Repo](https://github.com/Azure/sap-hana) - SAP on Azure deployment automation repository on Github.
+- [Github Repo](https://github.com/microsoft/SAPAzureSnooze) - SAP Snooze PowerApp.
 
 #### Security
 - [Github Repo](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
