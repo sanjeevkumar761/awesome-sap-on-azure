@@ -59,4 +59,4 @@
 - [Github Repo](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
 
 #### Books
-- [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide
+- [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
