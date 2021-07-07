@@ -22,6 +22,7 @@
     - [SSO](#sso)
     - [Automation](#automation)
     - [Security](#security)
+    - [Monitoring](#monitoring)
     - [Books](#books)
 
 #### Getting Started
@@ -60,6 +61,10 @@
 - [Security Design](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
 - [Security Operations](https://blogs.sap.com/2019/07/21/sap-security-operations-on-azure/) - SAP Security Operations on Azure. 
 - [Continuous Threat Monitoring](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution) - Deploy SAP continuous threat monitoring (public preview). 
+
+#### Monitoring
+- [SAP NetWeaver Monitoring](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-netweaver-monitoring-azure-monitoring-for-sap-solutions/ba-p/2262721) - SAP NetWeaver monitoring- Azure Monitoring for SAP Solutions.
+- [SAP Monitoring Solution](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/azure-monitor-overview) - Azure Monitor for SAP Solutions (preview).
 
 #### Books
 - [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
