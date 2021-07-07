@@ -21,7 +21,7 @@
     - [Backup](#backup)
     - [SSO](#sso)
     - [Automation](#automation)
-    - [Security]
+    - [Security](#security)
     - [Books](#books)
 
 #### Getting Started
