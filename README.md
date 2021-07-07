@@ -59,7 +59,7 @@
 #### Security
 - [Security Design](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
 - [Security Operations](https://blogs.sap.com/2019/07/21/sap-security-operations-on-azure/) - SAP Security Operations on Azure. 
-- [Continous Threat Monitoring](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution) - Deploy SAP continuous threat monitoring (public preview). 
+- [Continuous Threat Monitoring](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution) - Deploy SAP continuous threat monitoring (public preview). 
 
 #### Books
 - [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
