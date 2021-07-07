@@ -57,7 +57,7 @@
 - [Github Repo](https://github.com/microsoft/SAPAzureSnooze) - SAP Snooze PowerApp.
 
 #### Security
-- [Github Repo](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
+- [Security Design](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
 - [Security Operations](https://blogs.sap.com/2019/07/21/sap-security-operations-on-azure/) - SAP Security Operations on Azure. 
 
 #### Books
