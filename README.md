@@ -65,6 +65,7 @@
 #### Monitoring
 - [SAP NetWeaver Monitoring](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-netweaver-monitoring-azure-monitoring-for-sap-solutions/ba-p/2262721) - SAP NetWeaver monitoring- Azure Monitoring for SAP Solutions.
 - [SAP Monitoring Solution](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/azure-monitor-overview) - Azure Monitor for SAP Solutions (preview).
+- [SAP Telemetry](https://www.microsoft.com/en-us/itshowcase/end-to-end-telemetry-for-sap-on-azure) - Telemetry and monitoring with SAP on Azure.
 
 #### Books
 - [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
