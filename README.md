@@ -50,6 +50,8 @@
 
 - [Principal Propagation for SAP oData Services](https://github.com/ROBROICH/Teams-Chatbot-SAP-NW-Principal-Propagation) - Hands-on Lab chatbot example for Principal propagation between Azure and SAP Netweaver OData services.
 - [Principal Propagation for SAP BTP](https://github.com/ROBROICH/Teams-Chatbot-SAP-NW-Principal-Propagation) - Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part I: Building the foundation.
+- [OAuth 2.0 configuration in SAP](https://medium.com/@ThomasWecker/oauth-2-0-configuration-in-sap-4333e92a1d65) - OAuth 2.0 configuration in SAP.
+- [SSO for ABAP Engine with oAuth](https://blogs.sap.com/2019/10/17/single-sign-on-for-abap-engine-with-azure-active-directory-using-oauth/) - Single sign on for ABAP Engine with Azure active directory using OAuth. 
 - [SAP Netweaver SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/sap-netweaver-tutorial) - Azure Active Directory Single sign-on (SSO) integration with SAP NetWeaver.
 - [SAP HANA SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/saphana-tutorial) - Azure Active Directory integration with SAP HANA.
 
