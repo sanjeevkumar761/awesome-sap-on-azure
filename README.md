@@ -52,6 +52,7 @@
 - [Principal Propagation for SAP BTP](https://github.com/ROBROICH/Teams-Chatbot-SAP-NW-Principal-Propagation) - Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part I: Building the foundation.
 - [OAuth 2.0 configuration in SAP](https://medium.com/@ThomasWecker/oauth-2-0-configuration-in-sap-4333e92a1d65) - OAuth 2.0 configuration in SAP.
 - [SSO for ABAP Engine with oAuth](https://blogs.sap.com/2019/10/17/single-sign-on-for-abap-engine-with-azure-active-directory-using-oauth/) - Single sign on for ABAP Engine with Azure active directory using OAuth. 
+- [SSO API calls with Postman](https://github.com/azuredevcollege/SAP/blob/master/sap-oauth-saml-flow/PostmanSetup/README.md) - Postman setup for SSO API calls.  
 - [SAP Netweaver SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/sap-netweaver-tutorial) - Azure Active Directory Single sign-on (SSO) integration with SAP NetWeaver.
 - [SAP HANA SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/saphana-tutorial) - Azure Active Directory integration with SAP HANA.
 
