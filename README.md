@@ -20,7 +20,7 @@
     - [Disaster Recovery](#disaster-recovery)
     - [Backup](#backup)
     - [SSO](#sso)
-    - [Automation](#automation)
+    - [Infrastructure as Code and Automation](#infrastructure-as-code-and-automation)
     - [Security](#security)
     - [Monitoring](#monitoring)
     - [Books](#books)
@@ -56,9 +56,13 @@
 - [SAP Netweaver SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/sap-netweaver-tutorial) - Azure Active Directory Single sign-on (SSO) integration with SAP NetWeaver.
 - [SAP HANA SSO with AAD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/saphana-tutorial) - Azure Active Directory integration with SAP HANA.
 
-#### Automation
+#### Infrastructure as Code and Automation
 - [Github Repo](https://github.com/Azure/sap-hana) - SAP on Azure deployment automation repository on Github.
 - [Github Repo](https://github.com/microsoft/SAPAzureSnooze) - SAP Snooze PowerApp.
+- [SAP on Azure SLES15 Automation](https://www.linkedin.com/pulse/sap-azure-automation-sles-15-alexander-tuerk/) - SAP on Azure: Automation to SLES 15.
+- [SAP Hana on Azure Platform as a Service](https://www.linkedin.com/pulse/sap-hana-azure-platform-service-nandkishor-gaikwad/) - SAP Hana on Azure Platform as a Service. 
+- [SAP Golden Image Management](https://www.linkedin.com/pulse/saphanaonazure-value-stream-1-golden-image-part-19-gaikwad/) - SAP on Azure Golden Image Management.
+- [SAP Infrastructure Provisioning and Instalation](https://www.linkedin.com/pulse/saphanaonazure-value-stream-2-infrastructure-sap-part-gaikwad/) - SAP on Azure Infrastructure Provision and SAP Installation.
 
 #### Security
 - [Security Design](https://azure.microsoft.com/en-us/blog/sap-on-azure-architecture-designing-for-security/) - SAP on Azure Architecture - Designing for security.
