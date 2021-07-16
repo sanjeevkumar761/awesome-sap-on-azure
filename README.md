@@ -19,6 +19,7 @@
     - [High Availability](#high-availability)
     - [Disaster Recovery](#disaster-recovery)
     - [Backup](#backup)
+    - [SAP Shared Files NFS](#sap-shared-files-nfs)
     - [SSO](#sso)
     - [Infrastructure as Code and Automation](#infrastructure-as-code-and-automation)
     - [Security](#security)
@@ -45,6 +46,10 @@
 
 - [HANA Backup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database) - Back up SAP HANA databases in Azure VMs.
 - [VM BAckup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction) - An overview of Azure VM backup.
+
+#### SAP Shared Files NFS
+
+- [NFS solution options for SAP shared files](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/deploy-sap-ascs-ers-with-azure-files-nfs-v4-1-shares/ba-p/2038320) - Deploy SAP ASCS/ERS with Azure Files NFS v4.1 shares.
 
 #### SSO
 
