@@ -19,6 +19,7 @@
     - [High Availability](#high-availability)
     - [Disaster Recovery](#disaster-recovery)
     - [Backup](#backup)
+    - [Network Design](#network-design)
     - [SAP Shared Files NFS](#sap-shared-files-nfs)
     - [SSO](#sso)
     - [Infrastructure as Code and Automation](#infrastructure-as-code-and-automation)
@@ -46,6 +47,10 @@
 
 - [HANA Backup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-sap-hana-database) - Back up SAP HANA databases in Azure VMs.
 - [VM BAckup on Azure](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction) - An overview of Azure VM backup.
+
+#### Network Design
+
+- [Network Design Guidelines](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/sap/eslz-network-topology-and-connectivity) - Network design guidelines from Enterprise-scale for SAP on Azure.
 
 #### SAP Shared Files NFS
 
