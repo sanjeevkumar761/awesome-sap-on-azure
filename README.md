@@ -26,6 +26,7 @@
     - [Security](#security)
     - [Monitoring](#monitoring)
     - [Books](#books)
+    - [Partner Solutions](#partner-solutions)
 
 #### Getting Started
 
@@ -87,3 +88,6 @@
 #### Books
 - [Implementation Guide](https://azure.microsoft.com/en-us/resources/sap-on-azure-implementation-guide/) - SAP on Azure Implementation Guide.
 - [Architecture and Administration](https://www.sap-press.com/sap-on-microsoft-azure_5174/) - SAP on Azure Architecture and Administration. 
+
+#### Partner Solutions
+- [Migrate and Manage Your SAP Environment with Red Hat and Microsoft](https://www.redhat.com/rhdc/managed-files/pa-migrate-manage-sap-analyst-material-F29586-202107-en.pdf) - Migrate and Manage Your SAP Environment with Microsoft and Red Hat for Increased Agility, Performance and Scale.
